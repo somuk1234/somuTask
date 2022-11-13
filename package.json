@@ -1,0 +1,23 @@
+{
+  "name": "somutask1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somuk1234/somuTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somuk1234/somuTask/issues"
+  },
+  "homepage": "https://github.com/somuk1234/somuTask#readme",
+    "dependencies": {
+      "express": "^4.18.2",
+      "google-spreadsheet": "^3.3.0"
+    }
+}
